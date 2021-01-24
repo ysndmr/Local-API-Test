@@ -1,4 +1,4 @@
-# local-api-test
+# local-api-test-vue
 
 ## Project setup
 ```
